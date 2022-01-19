@@ -106,5 +106,4 @@ venv.bak/
 pybert/pretrain/bert/base-chinese/config.json
 pybert/pretrain/bert/base-chinese/pytorch_model.bin
 pybert/pretrain/bert/base-chinese/vocab.txt
-pybert/dataset/cnews.txt
 pybert/dataset/cnews.zip
